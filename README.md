@@ -13,7 +13,7 @@ npm run build
 ```
 
 ## 参考指南
-[VUE与TypeScript集成配置最简教程](https://blog.csdn.net/u014633852/article/details/73706459)
+> [VUE与TypeScript集成配置最简教程](https://blog.csdn.net/u014633852/article/details/73706459)
 
 ## 使用问题总结
 ### vue文件的引入
